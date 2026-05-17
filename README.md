@@ -1,65 +1,75 @@
-# PROJECTNAME
+## Hi there 👋
 
-## Objective
-The Vulnerability Assessment and Penetration Testing (VAPT) project aimed to simulate real-world cyberattacks on a target system or network to identify potential vulnerabilities. The goal was to assess the security posture by performing active penetration testing and generating realistic attack scenarios. This hands-on experience provided an in-depth understanding of security risks, common vulnerabilities, and attack techniques, while reinforcing the importance of security measures to protect critical infrastructure.
+I'm **[`Muneer Moosa`]([https://www.youtube.com/@Scratch_malayalam](https://www.youtube.com/watch?v=6Xav6I7pzoU&t=829s)**, a Certified Ethical Hacker, Bug Hunter, and Security Researcher. With expertise in vulnerability assessment and ethical hacking, I create content on cybersecurity, bug bounties, and hacking tips. My goal is to educate, inspire, and contribute to a safer digital world.
 
-### Skills Learned
+<a href="https://linkedin.com/scratch"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-- Mastery of penetration testing techniques and methodologies.
-- Ability to identify and exploit vulnerabilities in various systems and applications.
-- Knowledge of web application security and common vulnerabilities such as SQL injection, XSS, and RCE.
-- Proficiency in using tools for vulnerability scanning, exploitation, and post-exploitation.
-- Strengthened understanding of ethical hacking practices and legal implications.
+<details>
+  <summary>More about me</summary>
 
-### Tools Used
+- **Name**: Scratch
+- **From**: India
+- **Bug Hunter** | **Security Researcher** | **Freelance Penetration Tester**
+- I have experience in bug hunting, vulnerability assessment, penetration testing, and social engineering.
+- Continuously improving my knowledge of **Website Vulnerabilities** and **Cybersecurity Skills**.
+- I’m currently learning and exploring **advanced hacking techniques**, **networking**, and **cybersecurity certifications**.
 
-- **Kali Linux** for penetration testing and security auditing.
-- **Burp Suite** for web vulnerability scanning and exploitation.
-- **Metasploit Framework** for exploitation and post-exploitation.
-- **Nmap** for network discovery and vulnerability scanning.
-- **OWASP ZAP** for automated security testing of web applications.
-- **Wireshark** for network traffic analysis.
+</details>
+<br>
 
-## Steps
+---
 
-Below are the key steps taken in the VAPT process:
+<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
-### 1. Reconnaissance and Information Gathering
-In the reconnaissance phase, initial information about the target system was gathered through open-source intelligence (OSINT), social engineering, and network scanning techniques.
+<br>
 
-*Ref 1: Nmap Scan Results*  
-This screenshot shows the results of a network scan using Nmap, identifying open ports and services on the target machine.
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
+      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
+      <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
+      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
+      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=blackarch&color=000000" alt="BlackArch" />
+      <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
 
-![Nmap Scan](link-to-image)
 
-### 2. Vulnerability Scanning
-During this phase, tools like Nessus and OpenVAS were used to identify vulnerabilities in the system and applications, categorizing them based on severity.
+  </div>
+</div>
 
-*Ref 2: Nessus Scan Report*  
-Here, Nessus scan results display a list of detected vulnerabilities, ranked by their criticality.
+---
+<h2 id="Certifications" align=''> Certifications </h2>
 
-![Nessus Scan](link-to-image)
+<div>
+<img src="https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge&color=000000" alt="OSCP Certification" />
+<img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&color=000000" alt="CompTIA Security+ Certification" />
+<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
 
-### 3. Exploitation
-Once vulnerabilities were identified, exploitation techniques were employed to verify their existence and assess their impact.
+</div>
 
-*Ref 3: Metasploit Exploit*  
-This screenshot shows a successful exploit using Metasploit, gaining unauthorized access to the target system.
+---
 
-![Metasploit Exploit](link-to-image)
+<h2 id="Projects" align=''> Projects </h2>
 
-### 4. Post-Exploitation
-Post-exploitation focused on maintaining access and escalating privileges to gather sensitive information or pivot to other systems within the network.
 
-*Ref 4: Post-Exploitation Shell*  
-This image captures the post-exploitation shell session, where elevated privileges were used to extract sensitive data.
+| **Project**      | **Description**                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------|
+| **[Project 1](https://github.com/)**    | Short Description |
+| **[Project 2](https://github.com/)**    | Short Description |
+| **[Project 3](https://github.com/)**    | Short Description | 
 
-![Post-Exploitation Shell](link-to-image)
-
-### 5. Reporting
-Finally, all findings were documented, including detailed descriptions of vulnerabilities, exploits, and remediation recommendations.
-
-*Ref 5: Vulnerability Report*  
-This screenshot shows a portion of the penetration testing report, highlighting critical vulnerabilities and suggested fixes.
-
-![Vulnerability Report](link-to-image)
+---
