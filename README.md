@@ -2,7 +2,7 @@
 
 I'm **[`Muneer Moosa`]([https://www.youtube.com/@Scratch_malayalam](https://www.youtube.com/watch?v=6Xav6I7pzoU&t=829s)**, a Certified Ethical Hacker, Bug Hunter, and Security Researcher. With expertise in vulnerability assessment and ethical hacking, I create content on cybersecurity, bug bounties, and hacking tips. My goal is to educate, inspire, and contribute to a safer digital world.
 
-<a href=["[https://linkedin.com/Muneer Moosa](https://www.linkedin.com/in/muneer-moosa/)](https://www.linkedin.com/in/muneer-moosa/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href=["[https://linkedin.com/Muneer Moosa](https://www.linkedin.com/in/muneer-moosa/)]"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
